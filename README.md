@@ -14,3 +14,4 @@ I am not going to cover the installation of Python and OpenCV, the versions used
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 
+[1]:http://www.hacktohell.org/2014/12/setting-up-opencv-300-with-visual.html
